@@ -1,0 +1,10 @@
+SELECT f.name, t.title, u.username, p.content FROM post p LEFT JOIN thread t ON t.id = p.thread_id JOIN forum f ON f.id = t.forum_id JOIN user u ON u.id = p.user_id GROUP BY t.id ORDER BY t.id DESC
+
+SELECT t.id, f.name, t.title, u.username, p.content FROM post p LEFT JOIN thread t ON t.id = p.thread_id JOIN forum f ON f.id = t.forum_id JOIN user u ON u.id = p.user_id ORDER BY t.id ASC
+
+select m.id as message_id, c.id as conversation_id, u1.username as from_user, u2.username as to_user, c.title as conversation_title, m.content as message, m.update_time
+FROM message m
+LEFT JOIN conversation c on m.conversation_id = c.id
+INNER JOIN user u1 ON u1.id = c.user_id_from
+INNER JOIN user u2 ON u2.id = c.user_id_to
+ORDER BY c.id ASC, m.id DESC

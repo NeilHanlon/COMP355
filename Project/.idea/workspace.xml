@@ -14,7 +14,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Project$user_data.coverage" NAME="user_data Coverage Results" MODIFIED="1427746524713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Project$user_data.coverage" NAME="user_data Coverage Results" MODIFIED="1428075663014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -28,39 +28,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="user_data.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user_data.py">
+      <file leaf-file-name="queries.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/queries.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1399" max-vertical-offset="2006">
-              <caret line="100" column="31" selection-start-line="100" selection-start-column="31" selection-end-line="100" selection-end-column="31" />
-              <folding>
-                <element signature="e#22#33#0" expanded="true" />
-                <marker date="1427746477199" expanded="true" signature="723:765" placeholder="Select name ..role..." />
-                <marker date="1427746477199" expanded="true" signature="829:861" placeholder="Insert into ..." />
-                <marker date="1427746477199" expanded="true" signature="829:869" placeholder="Insert into ..." />
-                <marker date="1427746477199" expanded="true" signature="829:884" placeholder="Insert into ..." />
-                <marker date="1427746477199" expanded="true" signature="904:951" placeholder="select name ..forum..." />
-                <marker date="1427746477199" expanded="true" signature="1016:1035" placeholder="Insert into ..." />
-                <marker date="1427746477199" expanded="true" signature="1016:1175" placeholder="Insert into ..." />
-                <marker date="1427746477199" expanded="true" signature="1016:1176" placeholder="Insert into ..." />
-                <marker date="1427746477199" expanded="true" signature="1636:1748" placeholder="insert into ..." />
-                <marker date="1427746477199" expanded="true" signature="1986:2036" placeholder="insert into ..." />
-                <marker date="1427746477199" expanded="true" signature="2141:2190" placeholder="select max(t..thread..." />
-                <marker date="1427746477199" expanded="true" signature="2445:2509" placeholder="insert into ..." />
-                <marker date="1427746477199" expanded="true" signature="2909:2987" placeholder="insert into ..." />
-                <marker date="1427746477199" expanded="true" signature="3069:3101" placeholder="select max(i..conversation..." />
-                <marker date="1427746477199" expanded="true" signature="3371:3432" placeholder="insert into ..." />
-              </folding>
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="queries.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/queries.txt">
+      <file leaf-file-name="user_data.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/user_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2520593" vertical-offset="0" max-vertical-offset="607">
-              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-              <folding />
+            <state vertical-scroll-proportion="0.81383854" vertical-offset="407" max-vertical-offset="2669">
+              <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+              <folding>
+                <element signature="e#21#32#0" expanded="true" />
+                <marker date="1428075520792" expanded="true" signature="1157:1199" placeholder="Select name ..role..." />
+                <marker date="1428075520792" expanded="true" signature="1263:1350" placeholder="Insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="1382:1434" placeholder="Insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="1382:1435" placeholder="Insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="1382:1440" placeholder="Insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="1382:1450" placeholder="Insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="1382:1481" placeholder="Insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="1382:1507" placeholder="Insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="1382:1517" placeholder="Insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="1382:1553" placeholder="Insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="1382:1558" placeholder="Insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="1382:1567" placeholder="Insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="1628:1800" placeholder="insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="1628:1807" placeholder="insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="1628:1808" placeholder="insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="1628:1961" placeholder="insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="1628:1962" placeholder="insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="1628:1984" placeholder="insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="1628:2085" placeholder="insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="1628:2136" placeholder="insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="2156:2203" placeholder="select name ..forum..." />
+                <marker date="1428075520792" expanded="true" signature="2276:2435" placeholder="Insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="2906:3018" placeholder="insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="3263:3313" placeholder="insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="3418:3467" placeholder="select max(t..thread..." />
+                <marker date="1428075520792" expanded="true" signature="3722:3786" placeholder="insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="4204:4282" placeholder="insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="4383:4415" placeholder="select max(i..conversation..." />
+                <marker date="1428075520792" expanded="true" signature="4685:4746" placeholder="insert into ..." />
+                <marker date="1428075520792" expanded="true" signature="5035:5122" placeholder="Insert into ..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,8 +85,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/user_data.py" />
         <option value="$PROJECT_DIR$/queries.txt" />
+        <option value="$PROJECT_DIR$/user_data.py" />
       </list>
     </option>
   </component>
@@ -107,7 +122,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -128,11 +142,13 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="Python.user_data">
     <configuration default="false" name="user_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -353,6 +369,9 @@
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="777321e6-c40a-49d5-962a-f8cecd97e344" name="Default" comment="" />
@@ -364,7 +383,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -409,61 +428,147 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/user_data.py">
+    <entry file="file://$PROJECT_DIR$/queries.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#22#33#0" expanded="true" />
-            <marker date="1427746477199" expanded="true" signature="723:765" placeholder="Select name ..role..." />
-            <marker date="1427746477199" expanded="true" signature="829:861" placeholder="Insert into ..." />
-            <marker date="1427746477199" expanded="true" signature="829:869" placeholder="Insert into ..." />
-            <marker date="1427746477199" expanded="true" signature="829:884" placeholder="Insert into ..." />
-            <marker date="1427746477199" expanded="true" signature="904:951" placeholder="select name ..forum..." />
-            <marker date="1427746477199" expanded="true" signature="1016:1035" placeholder="Insert into ..." />
-            <marker date="1427746477199" expanded="true" signature="1016:1175" placeholder="Insert into ..." />
-            <marker date="1427746477199" expanded="true" signature="1016:1176" placeholder="Insert into ..." />
-            <marker date="1427746477199" expanded="true" signature="1636:1748" placeholder="insert into ..." />
-            <marker date="1427746477199" expanded="true" signature="1986:2036" placeholder="insert into ..." />
-            <marker date="1427746477199" expanded="true" signature="2141:2190" placeholder="select max(t..thread..." />
-            <marker date="1427746477199" expanded="true" signature="2445:2509" placeholder="insert into ..." />
-            <marker date="1427746477199" expanded="true" signature="2909:2987" placeholder="insert into ..." />
-            <marker date="1427746477199" expanded="true" signature="3069:3101" placeholder="select max(i..conversation..." />
-            <marker date="1427746477199" expanded="true" signature="3371:3432" placeholder="insert into ..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/user_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1399" max-vertical-offset="2006">
-          <caret line="100" column="31" selection-start-line="100" selection-start-column="31" selection-end-line="100" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2006">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#22#33#0" expanded="true" />
-            <marker date="1427746477199" expanded="true" signature="723:765" placeholder="Select name ..role..." />
-            <marker date="1427746477199" expanded="true" signature="829:861" placeholder="Insert into ..." />
-            <marker date="1427746477199" expanded="true" signature="829:869" placeholder="Insert into ..." />
-            <marker date="1427746477199" expanded="true" signature="829:884" placeholder="Insert into ..." />
-            <marker date="1427746477199" expanded="true" signature="904:951" placeholder="select name ..forum..." />
-            <marker date="1427746477199" expanded="true" signature="1016:1035" placeholder="Insert into ..." />
-            <marker date="1427746477199" expanded="true" signature="1016:1175" placeholder="Insert into ..." />
-            <marker date="1427746477199" expanded="true" signature="1016:1176" placeholder="Insert into ..." />
-            <marker date="1427746477199" expanded="true" signature="1636:1748" placeholder="insert into ..." />
-            <marker date="1427746477199" expanded="true" signature="1986:2036" placeholder="insert into ..." />
-            <marker date="1427746477199" expanded="true" signature="2141:2190" placeholder="select max(t..thread..." />
-            <marker date="1427746477199" expanded="true" signature="2445:2509" placeholder="insert into ..." />
-            <marker date="1427746477199" expanded="true" signature="2909:2987" placeholder="insert into ..." />
-            <marker date="1427746477199" expanded="true" signature="3069:3101" placeholder="select max(i..conversation..." />
-            <marker date="1427746477199" expanded="true" signature="3371:3432" placeholder="insert into ..." />
+            <element signature="e#21#32#0" expanded="true" />
+            <marker date="1428075520792" expanded="true" signature="1157:1199" placeholder="Select name ..role..." />
+            <marker date="1428075520792" expanded="true" signature="1263:1350" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1434" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1435" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1440" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1450" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1481" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1507" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1517" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1553" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1558" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1567" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:1800" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:1807" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:1808" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:1961" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:1962" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:1984" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:2085" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:2136" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="2156:2203" placeholder="select name ..forum..." />
+            <marker date="1428075520792" expanded="true" signature="2276:2435" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="2906:3018" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="3263:3313" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="3418:3467" placeholder="select max(t..thread..." />
+            <marker date="1428075520792" expanded="true" signature="3722:3786" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="4204:4282" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="4383:4415" placeholder="select max(i..conversation..." />
+            <marker date="1428075520792" expanded="true" signature="4685:4746" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="5035:5122" placeholder="Insert into ..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/queries.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2520593" vertical-offset="0" max-vertical-offset="607">
+        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255">
           <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#21#32#0" expanded="true" />
+            <marker date="1428075520792" expanded="true" signature="1157:1199" placeholder="Select name ..role..." />
+            <marker date="1428075520792" expanded="true" signature="1263:1350" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1434" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1435" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1440" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1450" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1481" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1507" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1517" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1553" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1558" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1567" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:1800" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:1807" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:1808" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:1961" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:1962" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:1984" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:2085" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:2136" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="2156:2203" placeholder="select name ..forum..." />
+            <marker date="1428075520792" expanded="true" signature="2276:2435" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="2906:3018" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="3263:3313" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="3418:3467" placeholder="select max(t..thread..." />
+            <marker date="1428075520792" expanded="true" signature="3722:3786" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="4204:4282" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="4383:4415" placeholder="select max(i..conversation..." />
+            <marker date="1428075520792" expanded="true" signature="4685:4746" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="5035:5122" placeholder="Insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.81383854" vertical-offset="407" max-vertical-offset="2669">
+          <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+          <folding>
+            <element signature="e#21#32#0" expanded="true" />
+            <marker date="1428075520792" expanded="true" signature="1157:1199" placeholder="Select name ..role..." />
+            <marker date="1428075520792" expanded="true" signature="1263:1350" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1434" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1435" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1440" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1450" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1481" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1507" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1517" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1553" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1558" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1382:1567" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:1800" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:1807" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:1808" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:1961" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:1962" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:1984" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:2085" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="1628:2136" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="2156:2203" placeholder="select name ..forum..." />
+            <marker date="1428075520792" expanded="true" signature="2276:2435" placeholder="Insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="2906:3018" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="3263:3313" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="3418:3467" placeholder="select max(t..thread..." />
+            <marker date="1428075520792" expanded="true" signature="3722:3786" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="4204:4282" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="4383:4415" placeholder="select max(i..conversation..." />
+            <marker date="1428075520792" expanded="true" signature="4685:4746" placeholder="insert into ..." />
+            <marker date="1428075520792" expanded="true" signature="5035:5122" placeholder="Insert into ..." />
+          </folding>
         </state>
       </provider>
     </entry>
